@@ -1,0 +1,78 @@
+# Dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env.example
+.env.real
+.env.sample
+.env.template
+
+# Build outputs
+/frontend/dist/
+/frontend/build/
+.parcel-cache/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Sensitive Files
+onlyfarmers-e296f-firebase-adminsdk-fbsvc-29f9ddaea3.json
+SANKEETH_CV_UPDATED.md
+
+# Documentation Files (for internship only, not needed in production)
+PRESENTATION_QUICK_REFERENCE.md
+README_INTERNSHIP.md
+onlyfarmers/COMPLETION_REPORT.md
+onlyfarmers/INTERNSHIP_SHOWCASE.md
+onlyfarmers/QUICK_START.md
+onlyfarmers/DEPLOYMENT_GUIDE.md
+onlyfarmers/MONGODB_SETUP_GUIDE.md
+onlyfarmers/SCHEMA_IMPLEMENTATION_SUMMARY.md
+onlyfarmers/USER_FLOWS_AND_TEST_CASES.md
+onlyfarmers/backend/API_DOCUMENTATION.md
+
+# Environment Files
+onlyfarmers/backend/env.real
+onlyfarmers/backend/env.sample
+onlyfarmers/backend/env.template
+onlyfarmers/backend/config/firebase.js
+
